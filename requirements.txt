@@ -1,1 +1,1 @@
-pip install gunicorn
+gunicorn == 21.2
